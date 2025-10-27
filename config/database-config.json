@@ -5,12 +5,25 @@
       "port": 5432,
       "database": "devops_production",
       "ssl_mode": "require",
-      "pool_size": 20
+      "pool_size": 20,
+      "timeout": 60
     },
     "backup": {
       "enabled": true,
       "schedule": "0 2 * * *",
-      "retention_days": 30
+      "retention_days": 30,
+      "encryption": true
+    },
+    "replication": {
+      "enabled": true,
+      "replicas": 3,
+      "sync_mode": "semi-synchronous",
+      "multi_region": false
+    },
+    "monitoring": {
+      "slow_query_threshold": 100,
+      "alert_on_anomaly": true,
+      "metrics_export": "prometheus"
     }
   },
   "development": {

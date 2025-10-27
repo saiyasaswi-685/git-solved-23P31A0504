@@ -19,3 +19,12 @@ development:
   hot_reload: false
   debug_mode: false
   mock_apis: false
+
+# Integrated experimental but safe new settings
+features:
+  backup_enabled: true
+  
+cloud_providers:
+  - aws
+  - azure
+  - gcp
