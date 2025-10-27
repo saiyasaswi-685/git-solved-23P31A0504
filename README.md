@@ -8,8 +8,8 @@ A comprehensive CI/CD configuration management tool for enterprise deployments â
 - **Stable Version**: 1.0.0 (Production)
 - **Beta Version**: 2.0.0-beta (Development)
 - **Experimental Version**: 3.0.0-experimental (AI & Multi-Cloud)
-- **Student**: [YOUR NAME]
-- **Student ID**: [YOUR ID]
+- **Student**: BANDARU SAI YASASWI
+- **Student ID**: 23P31A0504
 
 ---
 
