@@ -3,7 +3,7 @@
 ## Student Information
 - Name: BANDARU SAI YASASWI
 - Student ID: 23P31A0504
-- Repository: 
+- Repository: https://github.com/saiyasaswi-685/git-solved-23P31A0504.git
 - Date Started: 27-10-2025
 - Date Completed: 27-10-2025
 
