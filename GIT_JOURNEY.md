@@ -1,11 +1,11 @@
 # My Git Mastery Challenge Journey
 
 ## Student Information
-- Name: [YOUR NAME]
-- Student ID: [YOUR ID]
-- Repository: [YOUR REPO URL]
-- Date Started: [DATE]
-- Date Completed: [DATE]
+- Name: BANDARU SAI YASASWI
+- Student ID: 23P31A0504
+- Repository: 
+- Date Started: 27-10-2025
+- Date Completed: 27-10-2025
 
 ## Task Summary
 Cloned instructor's repository with pre-built conflicts and resolved all 
